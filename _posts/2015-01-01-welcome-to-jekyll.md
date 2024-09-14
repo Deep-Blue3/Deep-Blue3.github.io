@@ -5,7 +5,7 @@ subtitle: An awesome underwater rescue and search robots.
 author: Yiming Wang & Yunhe Zhao & Huanting Fang
 categories: jekyll
 banner:
-  video: https://www.bilibili.com/video/BV1MxtKetEGV?t=9.5
+  video: https://p.webwe.top/w/sdjkhs.mp4
   loop: true
   volume: 0.8
   start_at: 8.5
