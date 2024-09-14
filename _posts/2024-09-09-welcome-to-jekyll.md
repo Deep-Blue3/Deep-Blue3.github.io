@@ -21,7 +21,7 @@ top: 1
 sidebar: []
 ---
 
-## Deep_Blue Team Introduction
+**Deep Blue Team Introduction**
 
   We are committed to leveraging advanced underwater robotics technology to provide fast, reliable, and innovative solutions for life-saving rescue and search missions.
 
@@ -37,7 +37,7 @@ Explore the deep blue, master the future
 
 ## Meaning:
 
-The name "Deep_Blue" symbolizes our respect for the ocean and our spirit of exploration. We focus not only on cutting-edge technology but also on protecting and saving every life in crisis. Our robots are not just technological achievements but also a promise to life. Through continuous innovation and collaboration, we are confident in contributing to the harmonious coexistence of humanity and the ocean.
+The name "Deep Blue" symbolizes our respect for the ocean and our spirit of exploration. We focus not only on cutting-edge technology but also on protecting and saving every life in crisis. Our robots are not just technological achievements but also a promise to life. Through continuous innovation and collaboration, we are confident in contributing to the harmonious coexistence of humanity and the ocean.
 
 
 
