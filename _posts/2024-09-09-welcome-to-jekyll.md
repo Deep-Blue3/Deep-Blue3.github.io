@@ -24,25 +24,18 @@ sidebar: []
 ## Deep Blue Team Introduction
 
   We are committed to leveraging advanced underwater robotics technology to provide fast, reliable, and innovative solutions for life-saving rescue and search missions.
-
 ## Slogan:
 
 Explore the deep blue, master the future
-
 ## Purpose:
 
 - Develop efficient underwater robots to enhance the speed and accuracy of rescue and search operations.
 - Utilize technological innovation to ensure reliability and safety in complex underwater environments.
 - Provide a solid foundation for future ocean exploration and conservation.
-
 ## Meaning:
 
 The name "Deep Blue" symbolizes our respect for the ocean and our spirit of exploration. We focus not only on cutting-edge technology but also on protecting and saving every life in crisis. Our robots are not just technological achievements but also a promise to life. Through continuous innovation and collaboration, we are confident in contributing to the harmonious coexistence of humanity and the ocean.
-
-
-<div align="center">
-  <img src="https://github.com/Three-Explorer/-/blob/main/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20240912235550.jpg">
-</div>
+![logo](https://github.com/Three-Explorer/-/blob/main/logo.jpg)
 
 
 
