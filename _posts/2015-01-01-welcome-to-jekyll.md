@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Welcome to Deep-Blue!
-subtitle: A awesome underwater rescue and search robots.
+subtitle: An awesome underwater rescue and search robots.
 author: Yiming Wang & Yunhe Zhao & Huanting Fang
 categories: jekyll
 banner:
