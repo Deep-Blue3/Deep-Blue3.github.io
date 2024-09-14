@@ -39,7 +39,7 @@ Explore the deep blue, master the future
 
 The name "Deep Blue" symbolizes our respect for the ocean and our spirit of exploration. We focus not only on cutting-edge technology but also on protecting and saving every life in crisis. Our robots are not just technological achievements but also a promise to life. Through continuous innovation and collaboration, we are confident in contributing to the harmonious coexistence of humanity and the ocean.
 
-![Logo](https://t07.icnn.cn/GnVNGF)
+![Logo](https://github.com/Three-Explorer/-/blob/main/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20240912235550.jpg)
 
 
 
