@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Welcome to Deep-Blue!
-subtitle: An awesome underwater rescue and search robots.
+title: Week Two
+subtitle: Project Pitch Slides
 author: Yiming Wang & Yunhe Zhao & Huanting Fang
 categories: jekyll
 banner:
